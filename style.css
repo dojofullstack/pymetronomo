@@ -1,0 +1,80 @@
+
+#label_2{
+    font-family: 'Roboto';
+    font-size: 28px;
+    color: #FB4B2B;
+    border-radius: 1px;
+    border: 1px solid #FB4B2B;
+
+}
+
+
+/*QPushButton{
+    font-family: 'Roboto';
+    background-color: #f2f2f2;
+    font-weight: 600;
+    font-size: 13px;
+    color: #FB4B2B;
+    border-radius: 8px;
+    border: 1px solid #FB4B2B;
+
+}
+QPushButton:hover{
+    background-color: #FB4B2B;
+    color: #fff;
+        }*/
+
+QPushButton {
+  background: #34d96e;
+  border-radius: 10px;
+  font-family: Georgia;
+  color: #ffffff;
+  font-size: 14px;
+  padding: 10px;
+  border: solid #7eabc7 0px;
+  text-decoration: none;
+}
+
+QPushButton:hover {
+  background: #288a66;
+  text-decoration: none;
+}
+
+
+#animation1,#animation2,#animation3
+{
+    background-color: #288a66;
+    font-size: 30px;
+    border-radius: 16px;
+
+}
+
+#pushButton_4{
+    font-family: 'Roboto';
+    background-color: #f2f2f2;
+    font-weight: 600;
+    font-size: 15px;
+    text-transform: uppercase;
+    color: #FB4B2B;
+    border-radius: 8px;
+    border: 1px solid #FB4B2B;
+
+}
+#pushButton_4:hover{
+    background-color: #FB4B2B;
+    color: #fff;
+        }
+
+#spinBox{
+    font-family: 'Roboto';
+    background-color: #fff;
+    font-weight: 600;
+    font-size: 30px;
+    color: #FB4B2B;
+        }
+
+
+
+#MainWindow{
+        background-color: #fff;
+    }
